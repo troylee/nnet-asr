@@ -1,0 +1,5 @@
+In order to prepare the TIMIT DB use:
+./prepare_timit.sh
+
+It's necessary to first set the input directory (in_dir) inside the script.
+

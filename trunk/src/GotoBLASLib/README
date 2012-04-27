@@ -1,0 +1,8 @@
+== README ==
+The GotoBLAS library can be obtained from URL:
+http://www.tacc.utexas.edu/tacc-projects/gotoblas2/downloads/
+
+The GotoBLAS library is distributed under the BSD licence,
+for details go see: 00License.txt
+
+The author of GotoBLAS is Kazuyoshi Goto...

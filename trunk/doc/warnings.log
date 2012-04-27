@@ -1,0 +1,814 @@
+Notice: Output directory `../doc/TNet' does not exist. I have created it for you.
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Common.cc:18: Warning: include file ios not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.cc:1821: Warning: include file iostream not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Error.h:13: warning: the name `Error.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Error.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.cc:2: warning: the name `Matrix.cc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.cc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.cc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.tcc:2: warning: the name `Matrix.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/MlfStream.h:1: warning: the name `MlfStream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/MlfStream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:3: warning: the name `stkstream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BasicVector.tcc:1: warning: the name `BasicVector.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/BasicVector.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BasicVector.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork_IO.tcc:2: warning: the name `DecoderNetwork_IO.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork_IO.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork_IO.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Error.h:13: warning: the name `Error.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Error.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc:2: warning: the name `Matrix.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/MlfStream.h:1: warning: the name `MlfStream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/MlfStream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:3: warning: the name `stkstream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BasicVector.tcc:1: warning: the name `BasicVector.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/BasicVector.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BasicVector.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork_IO.tcc:2: warning: the name `DecoderNetwork_IO.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork_IO.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork_IO.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Error.h:13: warning: the name `Error.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Error.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Error.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.cc:2: warning: the name `Matrix.cc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.cc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.cc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc:2: warning: the name `Matrix.tcc' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/MlfStream.h:1: warning: the name `MlfStream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/MlfStream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/MlfStream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:3: warning: the name `stkstream.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+   /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+Please use a more specific name by including a (larger) part of the path!
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:450: warning: member OStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:451: warning: member WOStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:452: warning: member IStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:453: warning: member WIStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:392: warning: member mOrigMRows belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:393: warning: member mOrigMCols belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:396: warning: member mOrigMRealCols belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:397: warning: member mTRowOff belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:398: warning: member mTColOff belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:136: warning: member MODEL_SET_WITH_ACCUM belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:137: warning: member MODEL_SET_WITH_TWO_ACCUM_SET belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:62: warning: member t_undef belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:63: warning: member t_file belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:64: warning: member t_pipe belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:65: warning: member t_filter belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:66: warning: member t_stdio belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:450: warning: member OStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:451: warning: member WOStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:452: warning: member IStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:453: warning: member WIStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Features.cc:39: warning: documented function `home troy Projects TNet_v1_8_r115 src KaldiLib Features cc home troy Projects TNet_v1_8_r115 src KaldiLib Features cc home troy Projects TNet_v1_8_r115 src KaldiLib Features cc const char FeatureRepository:: TNet::mpParmKindNames' was not declared or defined.
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.tcc:93: warning: no uniquely matching class member found for 
+  template < _CharT, _Traits >
+  basic_stkbuf< _CharT, _Traits > * TNet::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m, const char *pFilter)
+Possible candidates:
+  this_type * TNet::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 133 of file /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.tcc:350: warning: no matching class member found for 
+  template < _NetworkType >
+  Decoder< _NetworkType >::NetworkType::NodeType * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(_NetworkType::NodeType *pNode)
+Possible candidates:
+  NetworkNode * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(NetworkNode *pNode)
+  NetworkNode * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(NetworkNode *pNode)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.tcc:609: warning: no matching class member found for 
+  template < _NodeType >
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(STK::WordLinkRecord *pWlr, STK::Token< _NodeType >::double like, Token< _NodeType >::LikeType acousticLike)
+Possible candidates:
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr, LikeType like, LikeType acousticLike)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr, LikeType like, LikeType acousticLike)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.tcc:882: warning: no matching class member found for 
+  template < _NetworkType >
+  void STK::Decoder< _NetworkType >::KillToken(STK::Decoder< _NetworkType >::STK::Token *token)
+Possible candidates:
+  static void STK::Decoder< _NetworkType >::KillToken(Token *token)
+  static void STK::Decoder< _NetworkType >::KillToken(Token *token)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/fmath.h:334: warning: no matching class member found for 
+  fmath::local::LOG_N::expVar()
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/fmath.h:337: warning: no matching class member found for 
+  fmath::local::LOG_N::logVar()
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc:331: warning: no uniquely matching class member found for 
+  template < _ElemT >
+  Matrix< _ElemT > & STK::Matrix< _ElemT >::RepMMMul(const STK::Matrix< _ElemT > &a, const Matrix< _ElemT > &b)
+Possible candidates:
+  ThisType & STK::Matrix< _ElemT >::RepMMMul(const ThisType &a, const ThisType &b) at line 208 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+  ThisType & STK::Matrix< _ElemT >::RepMMMul(const ThisType &a, const ThisType &b) at line 208 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h
+  template <>
+  Matrix< float > & STK::Matrix< _ElemT >::RepMMMul(const Matrix< float > &a, const Matrix< float > &b) at line 594 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.tcc:345: warning: no uniquely matching class member found for 
+  template < _ElemT >
+  Matrix< _ElemT > & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const STK::Matrix< _ElemT > &a)
+Possible candidates:
+  ThisType & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const ThisType &a) at line 202 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+  ThisType & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const ThisType &a) at line 202 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.tcc:120: warning: no uniquely matching class member found for 
+  template < _CharT, _Traits >
+  basic_stkbuf< _CharT, _Traits > * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m, const char *pFilter)
+Possible candidates:
+  this_type * TNet::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 133 of file /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.tcc:350: warning: no matching class member found for 
+  template < _NetworkType >
+  Decoder< _NetworkType >::NetworkType::NodeType * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(_NetworkType::NodeType *pNode)
+Possible candidates:
+  NetworkNode * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(NetworkNode *pNode)
+  NetworkNode * STK::Decoder< _NetworkType >::pActivateWordNodesLeadingFrom(NetworkNode *pNode)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.tcc:609: warning: no matching class member found for 
+  template < _NodeType >
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(STK::WordLinkRecord *pWlr, STK::Token< _NodeType >::double like, Token< _NodeType >::LikeType acousticLike)
+Possible candidates:
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr, LikeType like, LikeType acousticLike)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr)
+  void STK::Token< _NodeType >::AddAlternativeHypothesis(WordLinkRecord *pWlr, LikeType like, LikeType acousticLike)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.tcc:882: warning: no matching class member found for 
+  template < _NetworkType >
+  void STK::Decoder< _NetworkType >::KillToken(STK::Decoder< _NetworkType >::STK::Token *token)
+Possible candidates:
+  static void STK::Decoder< _NetworkType >::KillToken(Token *token)
+  static void STK::Decoder< _NetworkType >::KillToken(Token *token)
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.cc:66: warning: no uniquely matching class member found for 
+  void STK::LabelStore::Insert(const std::string &rLabel, istream *pStream, std::streampos Pos)
+Possible candidates:
+  void STK::LabelStore::Insert(const string &rLabel, istream *pStream) at line 157 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h
+  void STK::LabelStore::Insert(const string &rLabel, istream *pStream, std::streampos Pos) at line 166 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.cc:126: warning: no uniquely matching class member found for 
+  void STK::LabelStore::Insert(const std::string &rLabel, istream *pStream)
+Possible candidates:
+  void STK::LabelStore::Insert(const string &rLabel, istream *pStream) at line 157 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h
+  void STK::LabelStore::Insert(const string &rLabel, istream *pStream, std::streampos Pos) at line 166 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/fmath.h:334: warning: no matching class member found for 
+  fmath::local::LOG_N::expVar()
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/fmath.h:337: warning: no matching class member found for 
+  fmath::local::LOG_N::logVar()
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:392: warning: member mOrigMRows belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:393: warning: member mOrigMCols belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:396: warning: member mOrigMRealCols belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:397: warning: member mTRowOff belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h:398: warning: member mTColOff belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc:331: warning: no uniquely matching class member found for 
+  template < _ElemT >
+  Matrix< _ElemT > & STK::Matrix< _ElemT >::RepMMMul(const STK::Matrix< _ElemT > &a, const Matrix< _ElemT > &b)
+Possible candidates:
+  ThisType & STK::Matrix< _ElemT >::RepMMMul(const ThisType &a, const ThisType &b) at line 208 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+  ThisType & STK::Matrix< _ElemT >::RepMMMul(const ThisType &a, const ThisType &b) at line 208 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h
+  template <>
+  Matrix< float > & STK::Matrix< _ElemT >::RepMMMul(const Matrix< float > &a, const Matrix< float > &b) at line 594 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+  template <>
+  Matrix< float > & STK::Matrix< _ElemT >::RepMMMul(const Matrix< float > &a, const Matrix< float > &b) at line 333 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.cc
+  template <>
+  Matrix< float > & STK::Matrix< _ElemT >::RepMMMul(const Matrix< float > &a, const Matrix< float > &b) at line 594 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.tcc:345: warning: no uniquely matching class member found for 
+  template < _ElemT >
+  Matrix< _ElemT > & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const STK::Matrix< _ElemT > &a)
+Possible candidates:
+  ThisType & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const ThisType &a) at line 202 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/Matrix.h
+  ThisType & STK::Matrix< _ElemT >::AddCMMul(const _ElemT &c, const ThisType &a) at line 202 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Matrix.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:136: warning: member MODEL_SET_WITH_ACCUM belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:137: warning: member MODEL_SET_WITH_TWO_ACCUM_SET belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2075: warning: member AllocateXformStatCachesAndAccums belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2076: warning: member GlobalStats belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2077: warning: member NormalizeAccum belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2078: warning: member NormalizeStatsForXform belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2079: warning: member ReadAccum belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2080: warning: member ReadStatsForXform belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2081: warning: member ReleaseItem belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2082: warning: member ReplaceItem belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2083: warning: member ResetAccum belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2084: warning: member WriteAccum belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2085: warning: member WriteStatsForXform belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:2086: warning: member ComputeClusterWeightVectorAccums belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:62: warning: member t_undef belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:63: warning: member t_file belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:64: warning: member t_pipe belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:65: warning: member t_filter belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:66: warning: member t_stdio belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:450: warning: member OStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:451: warning: member WOStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:452: warning: member IStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:453: warning: member WIStkStream belongs to two different groups. The second one found here will be ignored.
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.tcc:120: warning: no uniquely matching class member found for 
+  template < _CharT, _Traits >
+  basic_stkbuf< _CharT, _Traits > * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m, const char *pFilter)
+Possible candidates:
+  this_type * TNet::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 133 of file /home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h
+  this_type * STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") at line 131 of file /home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h
+
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\sum'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\gamma_m'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\tau'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\tau'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/labelstore.h:43: warning: Found unknown command `\label'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:668: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:738: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:821: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:928: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1260: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1342: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:22: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:61: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:87: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:97: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/fmath.h:4: warning: Found unknown command `\url'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/fmath.h:4: warning: Found unknown command `\url'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/labelstore.h:43: warning: Found unknown command `\label'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/labelstore.h:43: warning: Found unknown command `\label'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:22: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:61: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:87: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:97: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:22: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:61: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:87: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:97: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:22: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:61: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:87: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:97: warning: Found unknown command `\nRepetitions'
+<NNet>:1: warning: The following parameters of SNet::NNet::NNet(STK::CompositeXform *nn, int cacheSize, int bunchSize, bool crossValidation, float *learningRateList) are not documented:
+  parameter 'nn'
+  parameter 'cacheSize'
+  parameter 'bunchSize'
+  parameter 'learningRateList'
+<ProgObj>:1: warning: The following parameters of SNet::ProgObj::ProgObj(STK::XformInstance *NNetInstance, int cacheSize, int bunchSize, bool crossValidation, std::string version, float learningRate, int clients, char *ip, bool randomize, bool sync, int port, int seed, int nocumrbu, char *learning_rate_list) are not documented:
+  parameter 'NNetInstance'
+  parameter 'cacheSize'
+  parameter 'bunchSize'
+  parameter 'version'
+  parameter 'learningRate'
+  parameter 'clients'
+  parameter 'ip'
+  parameter 'randomize'
+  parameter 'sync'
+  parameter 'port'
+  parameter 'seed'
+  parameter 'nocumrbu'
+  parameter 'learning_rate_list'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:22: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:61: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:87: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:97: warning: Found unknown command `\nRepetitions'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:21: warning: argument 'basesNum' of command @param is not found in the argument list of STK::GenerateDCTMatrix(Matrix< FLOAT > &rMat, const size_t nBasis, const size_t vctLen, const size_t nRepetitions, bool includeC0)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:21: warning: The following parameters of STK::GenerateDCTMatrix(Matrix< FLOAT > &rMat, const size_t nBasis, const size_t vctLen, const size_t nRepetitions, bool includeC0) are not documented:
+  parameter 'nBasis'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:86: warning: argument 'startValue' of command @param is not found in the argument list of STK::GenerateLinSpaceWindow(BasicVector< FLOAT > &rVct, const size_t windowLen, const FLOAT startVal, const FLOAT endVal, const size_t nRepetitions)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:86: warning: argument 'endValue' of command @param is not found in the argument list of STK::GenerateLinSpaceWindow(BasicVector< FLOAT > &rVct, const size_t windowLen, const FLOAT startVal, const FLOAT endVal, const size_t nRepetitions)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/SigP.h:86: warning: The following parameters of STK::GenerateLinSpaceWindow(BasicVector< FLOAT > &rVct, const size_t windowLen, const FLOAT startVal, const FLOAT endVal, const size_t nRepetitions) are not documented:
+  parameter 'startVal'
+  parameter 'endVal'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Score.h:30: warning: argument 'rMatrix' of command @param is not found in the argument list of STK::gradient_supervector_accum(Matrix< FLOAT > &rMatrixT, FLOAT *pFeaVector, const Hmm &rHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Score.h:30: warning: The following parameters of STK::gradient_supervector_accum(Matrix< FLOAT > &rMatrixT, FLOAT *pFeaVector, const Hmm &rHmm) are not documented:
+  parameter 'rMatrixT'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:52: warning: argument 'rLine' of command @param is not found in the argument list of STK::MlfDefinition(const string &line)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:52: warning: The following parameters of STK::MlfDefinition(const string &line) are not documented:
+  parameter 'line'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:700: warning: argument 'Substr' of command @param is not found in the argument list of STK::ProcessMask(const std::string &rString, const std::string &rWildcard, std::string &rSubstr)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:700: warning: The following parameters of STK::ProcessMask(const std::string &rString, const std::string &rWildcard, std::string &rSubstr) are not documented:
+  parameter 'rSubstr'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:715: warning: argument 'Substr' of command @param is not found in the argument list of STK::ProcessMask(const std::string &rString, const std::string &rWildcard, char *pSubstr)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:715: warning: The following parameters of STK::ProcessMask(const std::string &rString, const std::string &rWildcard, char *pSubstr) are not documented:
+  parameter 'pSubstr'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:145: warning: argument 'rNGrams' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:145: warning: argument 'rQuestion' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:145: warning: argument 'YesAnswer' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:143: warning: argument 'rNGrams' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:143: warning: argument 'rQuestion' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:143: warning: argument 'YesAnswer' of command @param is not found in the argument list of STK::SparseBigramMatrix::AllocateMem()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:181: warning: argument 'MoveFromThisSet' of command @param is not found in the argument list of STK::SparseBigramMatrix::GetSizeVectorCell(int position) const
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:181: warning: The following parameters of STK::SparseBigramMatrix::GetSizeVectorCell(int position) const are not documented:
+  parameter 'position'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:183: warning: argument 'MoveFromThisSet' of command @param is not found in the argument list of STK::SparseBigramMatrix::GetSizeVectorCell(int position) const
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:183: warning: The following parameters of STK::SparseBigramMatrix::GetSizeVectorCell(int position) const are not documented:
+  parameter 'position'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:754: warning: argument 'first' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:754: warning: argument 'last' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:754: warning: argument 'first' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:754: warning: argument 'last' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:754: warning: The following parameters of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets) are not documented:
+  parameter 'rSubsets'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:756: warning: argument 'first' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:756: warning: argument 'last' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:756: warning: argument 'first' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:756: warning: argument 'last' of command @param is not found in the argument list of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:756: warning: The following parameters of STK::VecDistribution::ComputeFromNGramSubsets(const NGramSubsets &rSubsets) are not documented:
+  parameter 'rSubsets'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:943: warning: The following parameters of STK::BDTree::BDTree(NGramSubsets &rData, NGramSubsets *rHeldoutData, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:941: warning: The following parameters of STK::BDTree::BDTree(NGramSubsets &rData, NGramSubsets *rHeldoutData, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1115: warning: argument 'r' of command @param is not found in the argument list of STK::BDTree::AdaptLeafDists(const NGramSubset &rNGrams, BDTreeBuildTraits &rTraits)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1115: warning: The following parameters of STK::BDTree::AdaptLeafDists(const NGramSubset &rNGrams, BDTreeBuildTraits &rTraits) are not documented:
+  parameter 'rTraits'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1113: warning: argument 'r' of command @param is not found in the argument list of STK::BDTree::AdaptLeafDists(const NGramSubset &rNGrams, BDTreeBuildTraits &rTraits)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1113: warning: The following parameters of STK::BDTree::AdaptLeafDists(const NGramSubset &rNGrams, BDTreeBuildTraits &rTraits) are not documented:
+  parameter 'rTraits'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1014: warning: The following parameters of STK::BDTree::BuildFromNGrams(NGramSubsets &rNGrams, NGramPool &rHeldoutData, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'rTraits'
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1003: warning: The following parameters of STK::BDTree::BuildFromNGrams(NGramSubsets &rNGrams, NGramSubsets *rHeldoutNGrams, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'rHeldoutNGrams'
+  parameter 'rTraits'
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1012: warning: The following parameters of STK::BDTree::BuildFromNGrams(NGramSubsets &rNGrams, NGramPool &rHeldoutData, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'rTraits'
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1005: warning: The following parameters of STK::BDTree::BuildFromNGrams(NGramSubsets &rNGrams, NGramSubsets *rHeldoutNGrams, BDTreeBuildTraits &rTraits, BDTree *pParent, const std::string &rPrefix) are not documented:
+  parameter 'rHeldoutNGrams'
+  parameter 'rTraits'
+  parameter 'pParent'
+  parameter 'rPrefix'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1038: warning: argument 'pSplitEnt' of command @param is not found in the argument list of STK::BDTree::FindSimpleQuestion_MMI(NGramSubsets &rNGrams, BDTreeBuildTraits &rTraits, FLOAT *pSplitMMI)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1038: warning: The following parameters of STK::BDTree::FindSimpleQuestion_MMI(NGramSubsets &rNGrams, BDTreeBuildTraits &rTraits, FLOAT *pSplitMMI) are not documented:
+  parameter 'pSplitMMI'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1040: warning: argument 'pSplitEnt' of command @param is not found in the argument list of STK::BDTree::FindSimpleQuestion_MMI(NGramSubsets &rNGrams, BDTreeBuildTraits &rTraits, FLOAT *pSplitMMI)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1040: warning: The following parameters of STK::BDTree::FindSimpleQuestion_MMI(NGramSubsets &rNGrams, BDTreeBuildTraits &rTraits, FLOAT *pSplitMMI) are not documented:
+  parameter 'pSplitMMI'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/BDTree.h:1065: warning: argument 'r' of command @param is not found in the argument list of STK::BDTree::ScoreNGramSubset(const NGramSubset &rNGrams)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/BDTree.h:1063: warning: argument 'r' of command @param is not found in the argument list of STK::BDTree::ScoreNGramSubset(const NGramSubset &rNGrams)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:307: warning: argument 'net' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:307: warning: argument 'first' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:307: warning: argument 'hmms' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:307: warning: argument 'hmmsToUptade' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:307: warning: argument 'net' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:307: warning: argument 'first' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:307: warning: argument 'hmms' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:307: warning: argument 'hmmsToUptade' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Clear()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:285: warning: argument 'net' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:285: warning: argument 'first' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:285: warning: argument 'hmms' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:285: warning: argument 'hmmsToUptade' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Decoder.h:285: warning: The following parameters of STK::Decoder::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate) are not documented:
+  parameter 'pHmms'
+  parameter 'pHmmsToUpdate'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:285: warning: argument 'net' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:285: warning: argument 'first' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:285: warning: argument 'hmms' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:285: warning: argument 'hmmsToUptade' of command @param is not found in the argument list of STK::Decoder< _NetworkType >::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Decoder.h:285: warning: The following parameters of STK::Decoder::Init(ModelSet *pHmms, ModelSet *pHmmsToUpdate) are not documented:
+  parameter 'pHmms'
+  parameter 'pHmmsToUpdate'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:450: warning: argument 'dict' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:450: warning: argument 'keep_word_nodes' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:450: warning: argument 'multiple_pronun' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:450: warning: The following parameters of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun) are not documented:
+  parameter 'pDict'
+  parameter 'keepWordNodes'
+  parameter 'multiplePronun'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:450: warning: argument 'dict' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:450: warning: argument 'keep_word_nodes' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:450: warning: argument 'multiple_pronun' of command @param is not found in the argument list of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:450: warning: The following parameters of STK::DecoderNetwork::ExpandByDictionary(MyHSearchData *pDict, bool keepWordNodes, bool multiplePronun) are not documented:
+  parameter 'pDict'
+  parameter 'keepWordNodes'
+  parameter 'multiplePronun'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:500: warning: argument 'out_net_fmt' of command @param is not found in the argument list of STK::DecoderNetwork::ExpansionsAndOptimizations(ExpansionOptions expOptions, const STKNetworkOutputFormat &rFormat, MyHSearchData *wordHash, MyHSearchData *nonCDphHash, MyHSearchData *triphHash, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:500: warning: The following parameters of STK::DecoderNetwork::ExpansionsAndOptimizations(ExpansionOptions expOptions, const STKNetworkOutputFormat &rFormat, MyHSearchData *wordHash, MyHSearchData *nonCDphHash, MyHSearchData *triphHash, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0) are not documented:
+  parameter 'rFormat'
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:500: warning: argument 'out_net_fmt' of command @param is not found in the argument list of STK::DecoderNetwork::ExpansionsAndOptimizations(ExpansionOptions expOptions, const STKNetworkOutputFormat &rFormat, MyHSearchData *wordHash, MyHSearchData *nonCDphHash, MyHSearchData *triphHash, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:500: warning: The following parameters of STK::DecoderNetwork::ExpansionsAndOptimizations(ExpansionOptions expOptions, const STKNetworkOutputFormat &rFormat, MyHSearchData *wordHash, MyHSearchData *nonCDphHash, MyHSearchData *triphHash, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0) are not documented:
+  parameter 'rFormat'
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:461: warning: argument 'strictTiming' of command @param is not found in the argument list of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:461: warning: argument 'trace_flag' of command @param is not found in the argument list of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:461: warning: The following parameters of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale) are not documented:
+  parameter 'expOptions'
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:461: warning: argument 'strictTiming' of command @param is not found in the argument list of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:461: warning: argument 'trace_flag' of command @param is not found in the argument list of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:461: warning: The following parameters of STK::DecoderNetwork::LatticeLocalOptimization(const ExpansionOptions &expOptions, FLOAT wordPenalty, FLOAT modelPenalty, FLOAT lmScale, FLOAT posteriorScale) are not documented:
+  parameter 'expOptions'
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/DecoderNetwork.h:560: warning: The following parameters of STK::DecoderNetwork::PosteriorPrune(const FLOAT &thresh, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0) are not documented:
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/DecoderNetwork.h:560: warning: The following parameters of STK::DecoderNetwork::PosteriorPrune(const FLOAT &thresh, FLOAT wordPenalty=0.0, FLOAT modelPenalty=0.0, FLOAT lmScale=1.0, FLOAT posteriorScale=1.0) are not documented:
+  parameter 'wordPenalty'
+  parameter 'modelPenalty'
+  parameter 'lmScale'
+  parameter 'posteriorScale'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Features.h:272: warning: argument 'rFileName' of command @param is not found in the argument list of STK::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Features.h:272: warning: The following parameters of STK::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="") are not documented:
+  parameter 'pFileName'
+  parameter 'pFilter'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Features.h:271: warning: argument 'rFileName' of command @param is not found in the argument list of STK::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Features.h:271: warning: The following parameters of STK::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="") are not documented:
+  parameter 'pFileName'
+  parameter 'pFilter'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/MlfStream.h:427: warning: The following parameters of STK::BasicOMlfStreamBase::BasicOMlfStreamBase(OStreamReference rOStream, size_t bufferSize) are not documented:
+  parameter 'bufferSize'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/MlfStream.h:427: warning: The following parameters of STK::BasicOMlfStreamBase::BasicOMlfStreamBase(OStreamReference rOStream, size_t bufferSize) are not documented:
+  parameter 'bufferSize'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:154: warning: argument 'pModelSet' of command @param is not found in the argument list of STK::ModelSetIOBase::Load(ModelSet &rModelSet, const std::string &rFileName, char *expectHMM)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:154: warning: The following parameters of STK::ModelSetIOBase::Load(ModelSet &rModelSet, const std::string &rFileName, char *expectHMM) are not documented:
+  parameter 'rModelSet'
+  parameter 'expectHMM'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:154: warning: argument 'pModelSet' of command @param is not found in the argument list of STK::ModelSetIOBase::Load(ModelSet &rModelSet, const std::string &rFileName, char *expectHMM)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:154: warning: The following parameters of STK::ModelSetIOBase::Load(ModelSet &rModelSet, const std::string &rFileName, char *expectHMM) are not documented:
+  parameter 'rModelSet'
+  parameter 'expectHMM'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:163: warning: argument 'ModelSet' of command @param is not found in the argument list of STK::ModelSetIOBase::Save(ModelSet &rModelSet, const std::string &rFileName)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:163: warning: The following parameters of STK::ModelSetIOBase::Save(ModelSet &rModelSet, const std::string &rFileName) are not documented:
+  parameter 'rModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:163: warning: argument 'ModelSet' of command @param is not found in the argument list of STK::ModelSetIOBase::Save(ModelSet &rModelSet, const std::string &rFileName)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:163: warning: The following parameters of STK::ModelSetIOBase::Save(ModelSet &rModelSet, const std::string &rFileName) are not documented:
+  parameter 'rModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:668: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:668: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:536: warning: argument 'modelSetType' of command @param is not found in the argument list of STK::ModelSet::Init(FlagType flags=0)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:536: warning: The following parameters of STK::ModelSet::Init(FlagType flags=0) are not documented:
+  parameter 'flags'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:536: warning: argument 'modelSetType' of command @param is not found in the argument list of STK::ModelSet::Init(FlagType flags=0)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:536: warning: The following parameters of STK::ModelSet::Init(FlagType flags=0) are not documented:
+  parameter 'flags'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:555: warning: argument 'rName' of command @param is not found in the argument list of STK::ModelSet::ParseMmf(const char *pName, char *expectHMM, bool readOnly=false)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:555: warning: The following parameters of STK::ModelSet::ParseMmf(const char *pName, char *expectHMM, bool readOnly=false) are not documented:
+  parameter 'pName'
+  parameter 'expectHMM'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:555: warning: argument 'rName' of command @param is not found in the argument list of STK::ModelSet::ParseMmf(const char *pName, char *expectHMM, bool readOnly=false)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:555: warning: The following parameters of STK::ModelSet::ParseMmf(const char *pName, char *expectHMM, bool readOnly=false) are not documented:
+  parameter 'pName'
+  parameter 'expectHMM'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:590: warning: argument 'MMI_denominator_accums' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const FileListElem &rFile, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:590: warning: The following parameters of STK::ModelSet::ReadAccums(const FileListElem &rFile, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums) are not documented:
+  parameter 'mmiDenominatorAccums'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:590: warning: argument 'MMI_denominator_accums' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const FileListElem &rFile, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:590: warning: The following parameters of STK::ModelSet::ReadAccums(const FileListElem &rFile, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums) are not documented:
+  parameter 'mmiDenominatorAccums'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:575: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:575: warning: argument 'MMI_denominator_accums' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:575: warning: The following parameters of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums) are not documented:
+  parameter 'pFileName'
+  parameter 'mmiDenominatorAccums'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:575: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:575: warning: argument 'MMI_denominator_accums' of command @param is not found in the argument list of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:575: warning: The following parameters of STK::ModelSet::ReadAccums(const char *pFileName, float weight, long *totFrames, FLOAT *totLogLike, int mmiDenominatorAccums) are not documented:
+  parameter 'pFileName'
+  parameter 'mmiDenominatorAccums'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:566: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::ReadHMMList(const char *pFileName, const char *pInMmfDir, const char *pInMmfExt)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:566: warning: The following parameters of STK::ModelSet::ReadHMMList(const char *pFileName, const char *pInMmfDir, const char *pInMmfExt) are not documented:
+  parameter 'pFileName'
+  parameter 'pInMmfDir'
+  parameter 'pInMmfExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:566: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::ReadHMMList(const char *pFileName, const char *pInMmfDir, const char *pInMmfExt)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:566: warning: The following parameters of STK::ModelSet::ReadHMMList(const char *pFileName, const char *pInMmfDir, const char *pInMmfExt) are not documented:
+  parameter 'pFileName'
+  parameter 'pInMmfDir'
+  parameter 'pInMmfExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:506: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:506: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:506: warning: The following parameters of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:506: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:506: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:506: warning: The following parameters of STK::ModelSet::WriteAccums(const char *pFileName, const char *pOutputDir, long totFrames, FLOAT totLogLike) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:498: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteHMMStats(const char *pFileName)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:498: warning: The following parameters of STK::ModelSet::WriteHMMStats(const char *pFileName) are not documented:
+  parameter 'pFileName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:498: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteHMMStats(const char *pFileName)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:498: warning: The following parameters of STK::ModelSet::WriteHMMStats(const char *pFileName) are not documented:
+  parameter 'pFileName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:470: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:470: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:470: warning: argument 'rOutputExt' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:470: warning: The following parameters of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+  parameter 'pOutputExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:470: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:470: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:470: warning: argument 'rOutputExt' of command @param is not found in the argument list of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:470: warning: The following parameters of STK::ModelSet::WriteMmf(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+  parameter 'pOutputExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:486: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:486: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:486: warning: argument 'rOutputExt' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:486: warning: The following parameters of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+  parameter 'pOutputExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:486: warning: argument 'rFileName' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:486: warning: argument 'rOutputDir' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:486: warning: argument 'rOutputExt' of command @param is not found in the argument list of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:486: warning: The following parameters of STK::ModelSet::WriteMmfRaw(const char *pFileName, const char *pOutputDir, const char *pOutputExt, bool binary) are not documented:
+  parameter 'pFileName'
+  parameter 'pOutputDir'
+  parameter 'pOutputExt'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:527: warning: argument 'rOutDir' of command @param is not found in the argument list of STK::ModelSet::WriteXformStatsAndRunCommands(const char *pOutDir, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:527: warning: The following parameters of STK::ModelSet::WriteXformStatsAndRunCommands(const char *pOutDir, bool binary) are not documented:
+  parameter 'pOutDir'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:527: warning: argument 'rOutDir' of command @param is not found in the argument list of STK::ModelSet::WriteXformStatsAndRunCommands(const char *pOutDir, bool binary)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:527: warning: The following parameters of STK::ModelSet::WriteXformStatsAndRunCommands(const char *pOutDir, bool binary) are not documented:
+  parameter 'pOutDir'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:738: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:738: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:727: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Hmm::AttachPriors(HMMSetNodeName nodeName, Hmm *pPriorHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:727: warning: The following parameters of STK::Hmm::AttachPriors(HMMSetNodeName nodeName, Hmm *pPriorHmm) are not documented:
+  parameter 'pPriorHmm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:727: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Hmm::AttachPriors(HMMSetNodeName nodeName, Hmm *pPriorHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:727: warning: The following parameters of STK::Hmm::AttachPriors(HMMSetNodeName nodeName, Hmm *pPriorHmm) are not documented:
+  parameter 'pPriorHmm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:720: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Hmm::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:720: warning: The following parameters of STK::Hmm::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:720: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Hmm::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:720: warning: The following parameters of STK::Hmm::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:821: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:821: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:811: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::State::AttachPriors(HMMSetNodeName nodeName, State *pPriorState)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:811: warning: The following parameters of STK::State::AttachPriors(HMMSetNodeName nodeName, State *pPriorState) are not documented:
+  parameter 'pPriorState'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:811: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::State::AttachPriors(HMMSetNodeName nodeName, State *pPriorState)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:811: warning: The following parameters of STK::State::AttachPriors(HMMSetNodeName nodeName, State *pPriorState) are not documented:
+  parameter 'pPriorState'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:804: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:804: warning: argument 'rHmm' of command @param is not found in the argument list of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:804: warning: The following parameters of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm) are not documented:
+  parameter 'pModelSet'
+  parameter 'pHmm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:804: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:804: warning: argument 'rHmm' of command @param is not found in the argument list of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:804: warning: The following parameters of STK::State::UpdateFromAccums(const ModelSet *pModelSet, const Hmm *pHmm) are not documented:
+  parameter 'pModelSet'
+  parameter 'pHmm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:928: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:928: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:903: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Mixture::AttachPriors(HMMSetNodeName nodeName, Mixture *pPriorMixture)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:903: warning: The following parameters of STK::Mixture::AttachPriors(HMMSetNodeName nodeName, Mixture *pPriorMixture) are not documented:
+  parameter 'pPriorMixture'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:903: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Mixture::AttachPriors(HMMSetNodeName nodeName, Mixture *pPriorMixture)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:903: warning: The following parameters of STK::Mixture::AttachPriors(HMMSetNodeName nodeName, Mixture *pPriorMixture) are not documented:
+  parameter 'pPriorMixture'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:912: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mixture::FloorVariance(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:912: warning: The following parameters of STK::Mixture::FloorVariance(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:912: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mixture::FloorVariance(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:912: warning: The following parameters of STK::Mixture::FloorVariance(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:896: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mixture::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:896: warning: The following parameters of STK::Mixture::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:896: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mixture::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:896: warning: The following parameters of STK::Mixture::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\sum'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\gamma_m'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\tau'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1003: warning: Found unknown command `\tau'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1013: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mean::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1013: warning: The following parameters of STK::Mean::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1013: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Mean::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1013: warning: The following parameters of STK::Mean::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1090: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Variance::AttachPriors(HMMSetNodeName nodeName, Variance *pPriorVariance)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1090: warning: The following parameters of STK::Variance::AttachPriors(HMMSetNodeName nodeName, Variance *pPriorVariance) are not documented:
+  parameter 'pPriorVariance'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1090: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Variance::AttachPriors(HMMSetNodeName nodeName, Variance *pPriorVariance)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1090: warning: The following parameters of STK::Variance::AttachPriors(HMMSetNodeName nodeName, Variance *pPriorVariance) are not documented:
+  parameter 'pPriorVariance'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1084: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Variance::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1084: warning: The following parameters of STK::Variance::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1084: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Variance::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1084: warning: The following parameters of STK::Variance::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1140: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Transition::AttachPriors(HMMSetNodeName nodeName, Transition *pPriorTransition)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1140: warning: The following parameters of STK::Transition::AttachPriors(HMMSetNodeName nodeName, Transition *pPriorTransition) are not documented:
+  parameter 'pPriorTransition'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1140: warning: argument 'pPriorMean' of command @param is not found in the argument list of STK::Transition::AttachPriors(HMMSetNodeName nodeName, Transition *pPriorTransition)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1140: warning: The following parameters of STK::Transition::AttachPriors(HMMSetNodeName nodeName, Transition *pPriorTransition) are not documented:
+  parameter 'pPriorTransition'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1133: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Transition::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1133: warning: The following parameters of STK::Transition::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1133: warning: argument 'rModelSet' of command @param is not found in the argument list of STK::Transition::UpdateFromAccums(const ModelSet *pModelSet)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1133: warning: The following parameters of STK::Transition::UpdateFromAccums(const ModelSet *pModelSet) are not documented:
+  parameter 'pModelSet'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1260: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1260: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1342: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1342: warning: Found unknown command `\mask'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1353: warning: argument 'mask' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1353: warning: argument 'nodeNameBuffer' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1353: warning: argument 'action' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1353: warning: The following parameters of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData) are not documented:
+  parameter 'macro_type'
+  parameter 'nodeName'
+  parameter 'pData'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1353: warning: argument 'mask' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1353: warning: argument 'nodeNameBuffer' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1353: warning: argument 'action' of command @param is not found in the argument list of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1353: warning: The following parameters of STK::Xform::ExpandPredef(int macro_type, HMMSetNodeName nodeName, MacroData *pData, void *pUserData) are not documented:
+  parameter 'macro_type'
+  parameter 'nodeName'
+  parameter 'pData'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1649: warning: argument 'inSize' of command @param is not found in the argument list of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1649: warning: argument 'outSize' of command @param is not found in the argument list of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1649: warning: The following parameters of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks) are not documented:
+  parameter 'nBlocks'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1649: warning: argument 'inSize' of command @param is not found in the argument list of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1649: warning: argument 'outSize' of command @param is not found in the argument list of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1649: warning: The following parameters of STK::BlockCopyXform::BlockCopyXform(size_t nBlocks) are not documented:
+  parameter 'nBlocks'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1730: warning: argument 'inSize' of command @param is not found in the argument list of STK::ConstantXform::ConstantXform(size_t outSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1730: warning: argument 'inSize' of command @param is not found in the argument list of STK::ConstantXform::ConstantXform(size_t outSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1764: warning: argument 'inSize' of command @param is not found in the argument list of STK::WindowXform::WindowXform(size_t vectorSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1764: warning: The following parameters of STK::WindowXform::WindowXform(size_t vectorSize) are not documented:
+  parameter 'vectorSize'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1764: warning: argument 'inSize' of command @param is not found in the argument list of STK::WindowXform::WindowXform(size_t vectorSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1764: warning: The following parameters of STK::WindowXform::WindowXform(size_t vectorSize) are not documented:
+  parameter 'vectorSize'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1801: warning: argument 'outSize' of command @param is not found in the argument list of STK::FeatureMappingXform::FeatureMappingXform(size_t inSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1801: warning: argument 'outSize' of command @param is not found in the argument list of STK::FeatureMappingXform::FeatureMappingXform(size_t inSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1836: warning: argument 'outSize' of command @param is not found in the argument list of STK::GmmPosteriorsXform::GmmPosteriorsXform(size_t inSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1836: warning: argument 'outSize' of command @param is not found in the argument list of STK::GmmPosteriorsXform::GmmPosteriorsXform(size_t inSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1916: warning: argument 'inSize' of command @param is not found in the argument list of STK::MatlabXform::MatlabXform(size_t inRows, size_t inCols, size_t outSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Models.h:1916: warning: The following parameters of STK::MatlabXform::MatlabXform(size_t inRows, size_t inCols, size_t outSize) are not documented:
+  parameter 'inRows'
+  parameter 'inCols'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1916: warning: argument 'inSize' of command @param is not found in the argument list of STK::MatlabXform::MatlabXform(size_t inRows, size_t inCols, size_t outSize)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Models.h:1916: warning: The following parameters of STK::MatlabXform::MatlabXform(size_t inRows, size_t inCols, size_t outSize) are not documented:
+  parameter 'inRows'
+  parameter 'inCols'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Net.h:1480: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::IsolateNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Net.h:1480: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::IsolateNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Net.h:1480: warning: The following parameters of STK::Network::IsolateNode(iterator iNode) are not documented:
+  parameter 'iNode'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Net.h:1480: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::IsolateNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Net.h:1480: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::IsolateNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Net.h:1480: warning: The following parameters of STK::Network::IsolateNode(iterator iNode) are not documented:
+  parameter 'iNode'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Net.h:1456: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::RemoveNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/Net.h:1456: warning: The following parameters of STK::Network::RemoveNode(iterator iNode) are not documented:
+  parameter 'iNode'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Net.h:1456: warning: argument 'pNode' of command @param is not found in the argument list of STK::Network< _NodeContent, _LinkContent, _NodeContainer, _LinkContainer >::RemoveNode(iterator iNode)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/Net.h:1456: warning: The following parameters of STK::Network::RemoveNode(iterator iNode) are not documented:
+  parameter 'iNode'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:116: warning: argument 'fName' of command @param is not found in the argument list of STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:116: warning: The following parameters of STK::basic_stkbuf::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:116: warning: argument 'fName' of command @param is not found in the argument list of STK::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:116: warning: The following parameters of STK::basic_stkbuf::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:262: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:262: warning: The following parameters of STK::BasicIStkStream::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:262: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:262: warning: The following parameters of STK::BasicIStkStream::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:284: warning: argument 's' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:284: warning: argument 'mode' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:284: warning: The following parameters of STK::BasicIStkStream::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="") are not documented:
+  parameter 'pFName'
+  parameter 'm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:284: warning: argument 's' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:284: warning: argument 'mode' of command @param is not found in the argument list of STK::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:284: warning: The following parameters of STK::BasicIStkStream::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="") are not documented:
+  parameter 'pFName'
+  parameter 'm'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:376: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicOStkStream< _CharT, _Traits >::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:380: warning: explicit link request to 'trunc' could not be resolved
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:376: warning: The following parameters of STK::BasicOStkStream::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:376: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicOStkStream< _CharT, _Traits >::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:380: warning: explicit link request to 'trunc' could not be resolved
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:376: warning: The following parameters of STK::BasicOStkStream::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:393: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicOStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/stkstream.h:393: warning: The following parameters of STK::BasicOStkStream::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:393: warning: argument 'fName' of command @param is not found in the argument list of STK::BasicOStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/stkstream.h:393: warning: The following parameters of STK::BasicOStkStream::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:347: warning: argument 's' of command @param is not found in the argument list of STK::LabelReader::JumpToNextDefinition()
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:334: warning: argument 'label' of command @param is not found in the argument list of STK::LabelReader::Open(const string &rLabel)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:334: warning: The following parameters of STK::LabelReader::Open(const string &rLabel) are not documented:
+  parameter 'rLabel'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:291: warning: argument 'fName' of command @param is not found in the argument list of STK::LabelReader::RegisterMLF(const string &rFName)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/trunk/src/STKLib/deprecated/labelreader.h:291: warning: The following parameters of STK::LabelReader::RegisterMLF(const string &rFName) are not documented:
+  parameter 'rFName'
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:700: warning: argument 'Substr' of command @param is not found in the argument list of TNet::ProcessMask(const std::string &rString, const std::string &rWildcard, std::string &rSubstr)
+/home/troy/Projects/TNet_v1_8_r115/src/STKLib/common.h:700: warning: The following parameters of TNet::ProcessMask(const std::string &rString, const std::string &rWildcard, std::string &rSubstr) are not documented:
+  parameter 'rSubstr'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Features.h:420: warning: argument 'rFileName' of command @param is not found in the argument list of TNet::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Features.h:420: warning: The following parameters of TNet::FeatureRepository::AddFileList(const char *pFileName, const char *pFilter="") are not documented:
+  parameter 'pFileName'
+  parameter 'pFilter'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Matrix.h:144: warning: The following parameters of TNet::Matrix::Copy(const Matrix< _ElemU > &rM, MatrixTrasposeType Trans=NO_TRANS) are not documented:
+  parameter 'Trans'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/MlfStream.h:437: warning: The following parameters of TNet::BasicOMlfStreamBase::BasicOMlfStreamBase(OStreamReference rOStream, size_t bufferSize) are not documented:
+  parameter 'bufferSize'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:118: warning: argument 'fName' of command @param is not found in the argument list of TNet::basic_stkbuf< _CharT, _Traits >::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:118: warning: The following parameters of TNet::basic_stkbuf::open(const char *pFName, std::ios_base::openmode m, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:264: warning: argument 'fName' of command @param is not found in the argument list of TNet::BasicIStkStream< _CharT, _Traits >::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:264: warning: The following parameters of TNet::BasicIStkStream::BasicIStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:286: warning: argument 's' of command @param is not found in the argument list of TNet::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:286: warning: argument 'mode' of command @param is not found in the argument list of TNet::BasicIStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:286: warning: The following parameters of TNet::BasicIStkStream::open(const char *pFName, std::ios::openmode m=std::ios::in, const char *pFilter="") are not documented:
+  parameter 'pFName'
+  parameter 'm'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:378: warning: argument 'fName' of command @param is not found in the argument list of TNet::BasicOStkStream< _CharT, _Traits >::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:382: warning: explicit link request to 'trunc' could not be resolved
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:378: warning: The following parameters of TNet::BasicOStkStream::BasicOStkStream(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:395: warning: argument 'fName' of command @param is not found in the argument list of TNet::BasicOStkStream< _CharT, _Traits >::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="")
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/StkStream.h:395: warning: The following parameters of TNet::BasicOStkStream::open(const char *pFName, std::ios::openmode m=std::ios::out, const char *pFilter="") are not documented:
+  parameter 'pFName'
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Vector.h:419: warning: argument 'pData' of command @param is not found in the argument list of TNet::SubVector< _ElemT >::SubVector(_ElemT *ppData, size_t length)
+/home/troy/Projects/TNet_v1_8_r115/src/KaldiLib/Vector.h:419: warning: The following parameters of TNet::SubVector::SubVector(_ElemT *ppData, size_t length) are not documented:
+  parameter 'ppData'

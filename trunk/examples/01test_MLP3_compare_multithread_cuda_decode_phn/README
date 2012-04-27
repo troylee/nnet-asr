@@ -1,0 +1,8 @@
+1) Following training accuracies should be obtained:
+
+run_test.sh: 23.40%
+run_testCUDA.sh: 23.41%
+
+2) The decode accuracy of trainig data by CUDA models should be:
+decode.sh: 26.68%
+
