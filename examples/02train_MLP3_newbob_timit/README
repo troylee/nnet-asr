@@ -1,0 +1,41 @@
+
+README
+
+This example shows how to efficiently run neural network training
+in the BUT environment, the scripts can be run by SGE or directly
+from command line.
+
+tjoiner.sh
+- Concatenates the feature segments to bigger files.
+  Randomized script files cause slodown by poor HDD 
+  cache hitrate due to frequent seeking.
+  By this script the files will be written to disk
+  in the order defined by a script file. 
+  Bigger files can also be copied faster from network
+  storage to local /tmp .
+- this script can also apply CMVN normalization via 
+  the CONF variable
+
+tnorm.sh 
+- this script generates CRBE-Hamm-DCT transform and
+  computes global mean variance normalization
+- the normalization can be computed also for arbitrary
+  predefined feature transform via parameter MMF
+
+tnet_train.sh
+- this script copies data from file server to local /tmp,
+  initializes neural network (topology is specified in the script)
+  and runs several iterations of training with newbob
+  learnrate scheduling. Finally the local data are 
+  deleted in case of invocation via SGE.
+- It is possible to control global parameters of the training
+  ie: learning rate, momentum, L2 regularization term, blocksize, etc.
+
+decode.sh
+- this script decodes the test set  
+- you should obtain accuracy 68%
+- for better accuracies try to: 
+  - use 3states per phoneme, 
+  - use larger networks
+  - realign the labels
+

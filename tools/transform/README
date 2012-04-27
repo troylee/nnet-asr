@@ -1,0 +1,91 @@
+== Documentation of transforms ==
+
+TNet supports on-the fly transforms of the input features.
+These can typically be used to some form of expansion and
+preprocssing of the features, wile it would be inefficient
+to store too long input features on the disk.
+
+The transorms are implemented as Networks and are organized
+in linear sequence of layers. However the transorms cannot
+be trained and an attepmt to train them will result in failure.
+This is why the transforms are stores separately.
+
+Several kinds of layers are supported, here is the list of them:
+<expand>, <transpose>, <window>, <bias>, <blocklinearity> 
+
+Each layer <tag> is followed by number of outpus/inputs:
+'<tag> N_OUTPUTS N_INPUTS'
+if the layer works blockwise (ex. DCT of each band separately), 
+the sum of all inputs/outputs is used.
+
+
+=== <expand> ===
+This transform is used for concatenating speech frames.
+It is given by a vector with frame offsets, like this
+the frames may not be consecutive.
+
+Example:
+<expand> 69 23
+v 3 
+-2 0 2
+
+=== <transpose> ===
+This transform is used to change order of items in vector.
+If we <expand> the features, we just concatenate frames,
+the memory layout is according to frequency axis.
+If we want temporal axis layout, we use this transform.
+
+It is given by integer which is number of frames that were
+previously concatenated.
+
+Exmaple:
+<transpose> 69 69
+3 
+
+From order:
+v1_1,v1_2,...,v1_23,v2_1,v2_2,...,v2_23,v3_1,v3_2,...,v_3,23
+we get:
+v1_1,v2_1,v3_1,v1_2,v2_2,v3_2,...,v1_23,v2_23,v3_23
+ 
+=== <window> ===
+This transform scales the input by a fixed vector.
+It is used in variance normalisation or can be used for scaling nnet outputs.
+It is given by a vector.
+
+Example:
+<window> 69 69
+v 69
+0.23 0.45 1.54 1.15 ... [69 values]
+
+=== <bias> ===
+This transform adds a fixed vector to the input.
+It can be used for mean normalization.
+
+Example:
+<bias> 69 69
+v 69
+0.0 0.45 0.0 1.15 ... [69 values]
+
+=== <blocklinearity> ===
+This transform applies several times a matrix-multiplication.
+with apropriate shifts. 
+It can be used to apply DCT matrix several times, once for 
+each temporal trajectory.
+
+Both the input and output dimensions of the layer must be 
+k-times the dimensions of the matrix.
+
+The transform is given by its matrix.
+
+Example:
+<blocklinearity> 9 69
+m 3 23
+1.0 2.0 3.0 4.0 5.0 6 7 8 9 10 ... 23.0
+1.0 2.0 3.0 4.0 5.0 6 7 8 9 10 ... 23.0
+1.0 2.0 3.0 4.0 5.0 6 7 8 9 10 ... 23.0
+
+The matrix will be used 3 times
+
+
+
+

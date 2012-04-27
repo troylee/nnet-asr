@@ -1,0 +1,58 @@
+
+
+
+----------------------------------------------------------
+ CONFIGURATION
+----------------------------------------------------------
+
+- Before compiling with CUDA, set the path to CUDA Toolkit!
+  File src/tnet.mk variable CUDA_TK_BASE
+
+- In case you have 64bit gcc, with a different cross-compile 
+  prefix than 'x86_64-linux-',please set CROSS_COMPILE
+  in src/tnet.mk 
+
+- Make sure you have gotoblas library
+
+
+----------------------------------------------------------
+ COMPILE
+----------------------------------------------------------
+
+- First we need to set dependencies:
+cd src
+make depend CUDA=true BITS64=true
+
+- Then we can compile:
+make #CPU implementation
+make CUDA=true BITS64=true  #CPU+GPU implementation
+
+- The binaries will be in src
+
+
+- Makefile accepts following options:
+
+   BITS64=true
+   - enable 64 bit compilation (default is 32 bit)
+
+   CUDA=true 
+   - compilation with CUDA
+
+   DOUBLEPRECISION=true 
+   - using doubles instead of floats
+
+   STK=true
+   - build also STK dependent tools TMpeCu TMmiCu
+
+
+
+----------------------------------------------------------
+ DOCUMENTATION
+----------------------------------------------------------
+
+- Generate documentation by:
+
+cd src
+make doc
+
+the html doxygen documentation is in directory doc/html

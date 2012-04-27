@@ -1,0 +1,71 @@
+== README ==
+
+Author: Troy
+
+Date: 16. April 2012
+
+=== Release notes ===
+
+This is a modified version of TNet based on TNet_v1_8_r115[http://speech.fit.vutbr.cz/files/software/tnet/TNet_v1_8_r115.tar.gz].
+
+
+== README ==
+
+Author: Karel Vesely iveselyk@fit.vutbr.cz
+        Speech@FIT, Brno University of Technology
+
+Date: 7. Feb 2012
+
+=== Release notes ===
+
+This package contains TNet, the netural network training tool.
+The package conatains sources for multi-threaded training,
+CUDA training and set of examples of the tools' usage.
+
+The TNet needs GotoBLAS for linear algebra acceleration. 
+GotoBLAS is redistributed as part of the package 
+with following licence (BSD):
+src/GotoBLASLib/00License.txt
+
+CUDA based tools (suffix Cu) need CUDA driver and CUDA Toolkit.
+The CUDA compiler nvcc from CUDA Toolkit cannot 
+be redistributed and must be installed by the end user of TNet.
+Latest versions can be obtained at:
+http://developer.nvidia.com/cuda-downloads
+
+The TNet was tested using the CUDA Toolkit 3.0, 
+this package can be obtained form:
+http://developer.nvidia.com/cuda-toolkit-30-downloads
+
+This package is distributed under Apache 2.0 licence,
+for details go see trunk/LICENSE,
+or http://www.apache.org/licenses/LICENSE-2.0.txt
+
+
+=== Package organization ===
+
+src/
+* The multi-thread and CUDA TNet sources
+* The toolkit can be quickly compiled by: "cd src/ && make depend && make"
+* Further details are in INSTALL
+
+tools/
+* Some useful scripts for training, initialization, etc
+
+doc/
+* Doxygen documentation; to generate HTML documentation, go see INSTALL
+
+examples/01test_MLP3_compare_multithread_cuda_decode_phn/run_test.sh
+* Run the test of the multi-thread binary
+
+examples/01test_MLP3_compare_multithread_cuda_decode_phn/run_testCUDA.sh
+* Run the test of the CUDA library
+
+examples/01test_MLP3_compare_multithread_cuda_decode_phn/decode.sh
+* Decode the phoneme strings from the training data
+  by using HVite, no LM
+
+examples/02train_MLP3_feats_local_copy/
+* Training scripts optimized for the Brno University of Technology environment
+
+
